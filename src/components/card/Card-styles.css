@@ -1,0 +1,113 @@
+.tie{
+    height: 220px;
+    width: 220px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    margin: 20px 0 30px 0px;   
+    padding: 15px;
+}
+
+.icon {
+ border-radius: 50%;  
+ position:relative;
+ width: 40px;
+ bottom: 40px;
+ left: 20px;
+ margin-bottom: 0px;
+}
+
+.dept{
+    margin: -30px 0 0 20px;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.sub-dept {
+    margin: 10px 0 0 0px;
+    font-size: 6px;
+}
+
+.time-left{
+    margin-bottom: 30px;
+    margin-left: 45px;
+    font-size: 11px;
+}
+
+.team {
+    display: inline-block;
+    font-size: 11px;
+    margin: 0 0 0 20px;
+}
+
+.prog{
+    display: inline-block;
+    font-size: 11px;
+    margin: 10px 0 0 40px;
+}
+
+.tie .image {
+    border-radius: 50%;
+    width: 20px;
+    margin-right: 5px;   
+}
+
+.tie .first-img{
+    margin-left: 20px;
+}
+
+.percent {
+    font-size: 12px;
+    display: inline-block;
+    margin-left: 55px;
+}
+
+.div-plus{
+    position: relative;
+    left: 1200px;
+    bottom: 80px;
+    display: inline-block;
+}
+
+.div-box{
+    background-color: #b0d9e8;
+    width: fit-content;
+    padding: 8px;
+    border-radius: 10px;
+    opacity: 0.7;
+    border: 1px solid #2596be;
+    display: inline-block;
+    margin-left: 15px;
+}
+.second-box{
+    background-color: rgb(255, 255, 255);
+    width: fit-content;
+    padding: 8px;
+    border-radius: 10px;
+    opacity: 0.7;
+    
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.above-cards{
+    margin-bottom: 25px;
+}
+
+.above-cards p{
+    display: inline-block;
+    margin-left: 35px;
+}
+
+.card-header h4{
+    margin: 50px 0 10px 0;
+    font-size: 20px;
+}
+
+.card-header p {
+    margin: 0 0 0 0;
+}
+
+.seperate-icons{
+    display: inline-block;
+    margin-left: 470px;
+}
